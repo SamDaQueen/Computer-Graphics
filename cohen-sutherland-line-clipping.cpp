@@ -90,7 +90,7 @@ int main()
         cout<<Q_TBRL[i];
     cout<<endl;
 
-    setcolor(RED);
+    setcolor(YELLOW);
     line(x1, y1, x2, y2);
 
     while(One || Two){
@@ -116,7 +116,7 @@ int main()
         for(int i=0; i<4; i++)
             cout<<Q_TBRL[i];
         cout<<endl;
-        setcolor(RED);
+        setcolor(GREEN);
         line(x1, y1, x2, y2);
     }
     cout<<"\n(x1, y1) = "<<x1<<", "<<y1;
