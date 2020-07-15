@@ -1,6 +1,6 @@
 # Computer Graphics Algorithms
 
-<h4>Algorithms in C++ which written during a course of Computer Graphics for B. Tech in Computer Engineering</h4>
+<h4>Algorithms in C++ written during a course of Computer Graphics for B. Tech in Computer Engineering</h4>
 
 <div>
 <h3>Files included</h3>
