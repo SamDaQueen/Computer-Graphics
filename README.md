@@ -1,3 +1,3 @@
-# Computer-Graphics
+# Computer Graphics
 
-Here are some codes is C++ which I have written during my course of Computer Graphics in college
+Some codes is C++ which were written during a course of Computer Graphics for B. Tech in Computer Engineering
